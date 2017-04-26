@@ -1,0 +1,26 @@
+{
+  "name": "good-flat",
+  "version": "1.0.0",
+  "description": "Simple transform stream for flattening good log data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonoh89/good-flat.git"
+  },
+  "keywords": [
+    "good",
+    "flat"
+  ],
+  "author": "Jonathan Holmlund <jonoh89@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jonoh89/good-flat/issues"
+  },
+  "homepage": "https://github.com/Jonoh89/good-flat#readme",
+  "devDependencies": {
+    "flat": "^2.0.1"
+  }
+}
