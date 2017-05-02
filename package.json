@@ -20,7 +20,7 @@
     "url": "https://github.com/Jonoh89/good-flat/issues"
   },
   "homepage": "https://github.com/Jonoh89/good-flat#readme",
-  "devDependencies": {
+  "dependencies": {
     "flat": "^2.0.1"
   }
 }
